@@ -7,14 +7,14 @@ final class Application {
     /**
      * 
      */
-    public function __construct() {
-
+    public function __construct($root) {
+        
     }
 
     /**
      * 
      */
-    public function apply() {
-        
+    public function apply($start) {
+
     }
 }
